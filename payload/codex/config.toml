@@ -1,0 +1,48 @@
+"model" = "gpt-6-astra"
+"model_reasoning_effort" = "medium"
+"personality" = "pragmatic"
+"service_tier" = "default"
+
+["desktop"]
+"appearanceLightCodeThemeId" = "notion"
+"appearanceDarkCodeThemeId" = "dracula"
+"selected-avatar-id" = "custom:mika"
+"followUpQueueMode" = "queue"
+"dock-icon-preference" = "codex-system"
+"conversationDetailMode" = "STEPS_COMMANDS"
+"avatar-overlay-mascot-width-px" = 124
+
+["desktop"."appearanceLightChromeTheme"]
+"accent" = "#3183d8"
+"contrast" = 45
+"ink" = "#37352f"
+"opaqueWindows" = true
+"surface" = "#ffffff"
+
+["desktop"."appearanceLightChromeTheme"."fonts"]
+
+
+["desktop"."appearanceLightChromeTheme"."semanticColors"]
+"diffAdded" = "#008000"
+"diffRemoved" = "#a31515"
+"skill" = "#0000ff"
+
+["desktop"."appearanceDarkChromeTheme"]
+"accent" = "#ff79c6"
+"contrast" = 60
+"ink" = "#f8f8f2"
+"opaqueWindows" = false
+"surface" = "#282a36"
+
+["desktop"."appearanceDarkChromeTheme"."fonts"]
+
+
+["desktop"."appearanceDarkChromeTheme"."semanticColors"]
+"diffAdded" = "#50fa7b"
+"diffRemoved" = "#ff5555"
+"skill" = "#ff79c6"
+
+["mcp_servers"]
+
+["mcp_servers"."openaiDeveloperDocs"]
+"url" = "https://developers.openai.com/mcp"

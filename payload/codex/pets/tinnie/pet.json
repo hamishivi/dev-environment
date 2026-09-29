@@ -1,0 +1,7 @@
+{
+  "id": "tinnie",
+  "displayName": "Tinnie",
+  "description": "A tiny Australian-inspired container-run companion for Open Instruct training launches.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}

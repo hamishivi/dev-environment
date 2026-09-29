@@ -1,0 +1,16 @@
+# Core portable development environment. No historical scientific stack.
+brew "git"
+brew "git-lfs"
+brew "gh"
+brew "lsd"
+brew "fzf"
+brew "ripgrep"
+brew "jq"
+brew "pyenv"
+brew "uv"
+brew "nvm"
+brew "python"
+cask "iterm2"
+cask "font-hack-nerd-font"
+cask "font-roboto-mono"
+# Install Codex desktop using the corporate software catalog / official installer.
